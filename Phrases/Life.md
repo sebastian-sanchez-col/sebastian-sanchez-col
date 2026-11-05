@@ -1,0 +1,3 @@
+"If you are 20 to 30 years old, please find a good boss, not necessarily a good company. Learn from the boss, learn how to do it. When you are 30 to 40 years old, try to do something yourself, if you really want to try. When you are 40 to 50 years old, do things that you are good at, after 20 years of learning, you should do something you're good at. When you are 50 to 60 years old, spend your time supporting young people. When you are over 60 years old, spend time with your grandchildren."   
+
+— Jack Ma
