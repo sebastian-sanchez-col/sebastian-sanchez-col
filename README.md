@@ -150,8 +150,8 @@ C4 Model · UML / PlantUML · BPMN · Scrum · Kanban · Scrumban · Git flow & 
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sebastian-sanchez-col&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-sanchez-col&layout=compact&hide_border=true" alt="Top languages">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sebastian-sanchez-col&hide_border=true" alt="GitHub Streak">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-sanchez-col&layout=compact&hide_border=true&theme=default" alt="Top languages">
 </p>
 
 ---
